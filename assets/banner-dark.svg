@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Stefano Crepaldi. Ferrara, IT.">
+  <rect width="1200" height="260" fill="#0E0E0E"/>
+  <rect x="24.5" y="24.5" width="1151" height="211" fill="none" stroke="#262626" stroke-width="1"/>
+
+  <rect x="56" y="60" width="12" height="12" fill="#FF5B14"/>
+  <text x="82" y="71" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#6B6B6B" letter-spacing="0.5">step325@dev ~ %</text>
+  <rect x="236" y="57" width="9" height="18" fill="#FF5B14">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="56" y="158" font-family="Space Grotesk, Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2.5" fill="#F4F1EC">STEFANO CREPALDI</text>
+
+  <text x="58" y="203" font-family="JetBrains Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#FF5B14" letter-spacing="0.5">// FERRARA, IT</text>
+  <rect x="1023" y="62" width="18" height="18" fill="#262626" opacity="0.54"/>
+  <rect x="1075" y="62" width="18" height="18" fill="#FF5B14" opacity="0.68"/>
+  <rect x="1101" y="62" width="18" height="18" fill="#262626" opacity="0.53"/>
+  <rect x="1127" y="62" width="18" height="18" fill="#262626" opacity="0.91"/>
+  <rect x="997" y="88" width="18" height="18" fill="#FF5B14" opacity="0.76"/>
+  <rect x="1075" y="88" width="18" height="18" fill="#262626" opacity="0.52"/>
+  <rect x="1127" y="88" width="18" height="18" fill="#FF5B14" opacity="0.43"/>
+  <rect x="1049" y="114" width="18" height="18" fill="#262626" opacity="0.82"/>
+  <rect x="1075" y="114" width="18" height="18" fill="#262626" opacity="0.53"/>
+  <rect x="1101" y="114" width="18" height="18" fill="#FF5B14" opacity="0.79"/>
+  <rect x="1127" y="114" width="18" height="18" fill="#FF5B14" opacity="0.73"/>
+  <rect x="1023" y="140" width="18" height="18" fill="#262626" opacity="0.85"/>
+  <rect x="1049" y="140" width="18" height="18" fill="#262626" opacity="0.76"/>
+  <rect x="1101" y="140" width="18" height="18" fill="#FF5B14" opacity="0.99"/>
+  <rect x="1127" y="140" width="18" height="18" fill="#262626" opacity="0.88"/>
+  <rect x="997" y="166" width="18" height="18" fill="#262626" opacity="0.52"/>
+  <rect x="1075" y="166" width="18" height="18" fill="#262626" opacity="0.66"/>
+  <rect x="1101" y="166" width="18" height="18" fill="#262626" opacity="0.79"/>
+  <rect x="1127" y="166" width="18" height="18" fill="#262626" opacity="0.97"/>
+</svg>

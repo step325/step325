@@ -14,12 +14,6 @@ Evening flashcard reviews. Dictating code instead of typing it. Transcription sh
 Same story every time: I did it by hand, until I wrote something that did it instead.  
 Then it turned out other people had the same problem.
 
-<img src="assets/h-now.svg" height="22" alt="Now">
-
-LLMs that run on consumer GPUs. Mamba 2, BitNet 1.58b, MoE. [Elleci](https://stefanocrepaldi.dev/en/projects/elleci) is where I test it.  
-Rust and Tauri, for the desktop apps I use every day.  
-[remquest](https://github.com/step325/remquest), between one review session and the next.
-
 <img src="assets/h-mine.svg" height="22" alt="Built for myself">
 
 **[remquest](https://github.com/step325/remquest)** my RemNote reviews as a 16 bit RPG. Due cards become the boss, 26 monsters, XP  
